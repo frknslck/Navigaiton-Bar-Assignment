@@ -1,0 +1,22 @@
+* {
+  margin: 10px;
+  padding: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  background-color: violet;
+  border-radius: 30px;
+  width: 70px;
+  display: inline-block;
+}
+
+li:hover {
+  background-color: rgb(197, 20, 123);
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 900;
+  width: 200px;
+}
